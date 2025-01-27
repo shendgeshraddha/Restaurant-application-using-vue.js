@@ -4,7 +4,7 @@ This is a restaurant management application built using Vue.js.
 It allows users to perform CRUD (Create, Read, Update, Delete) operations on restaurant details.
 The application communicates with an API using json-server to store and manage the restaurant data.
 
-Features :
+Features
 
 • Add Restaurant: Users can add new restaurant details, including name, location, and cuisine type.
 
@@ -44,5 +44,5 @@ Setup Instructions :
 5. Access the application at:
    http://localhost:8080
 
-         ![Resto Home page](https://github.com/user-attachments/assets/7c2c7d41-1cad-4cad-b2ba-6561b213f3f3)
 
+![Resto Home page](https://github.com/user-attachments/assets/4305e914-ea4e-4990-a3a5-555e67a35eb1)
