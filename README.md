@@ -1,8 +1,12 @@
 Restaurant Application
 
+
+
 This is a restaurant management application built using Vue.js. 
 It allows users to perform CRUD (Create, Read, Update, Delete) operations on restaurant details.
 The application communicates with an API using json-server to store and manage the restaurant data.
+
+
 
 Features
 
@@ -17,6 +21,7 @@ Features
 • API Integration: Data is stored and retrieved from a JSON API using json-server.
 
 
+
 Technologies Used :
 
 • Frontend: Vue.js for building the user interface.
@@ -24,6 +29,7 @@ Technologies Used :
 • Backend: JSON Server to mock a REST API for managing data.
 
 • Styling: CSS for designing a clean and responsive UI.
+
 
 
 Setup Instructions :
