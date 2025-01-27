@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "b5fc",
+      "email": "2",
+      "name": "1",
+      "password": "4"
+    },
+    {
+      "id": "cbb6",
+      "email": "kakkar",
+      "name": "tony",
+      "password": "1234"
+    },
+    {
+      "id": "5569",
+      "email": "hee",
+      "name": "peter",
+      "password": "1234"
+    },
+    {
+      "id": "f9a8",
+      "email": "tanmayahire2@gmail.com",
+      "name": "Tanmay Ahire",
+      "password": "@Shraddha220704"
+    },
+    {
+      "id": "4e51",
+      "email": "shendge@test.com",
+      "name": "shraddha",
+      "password": "220704"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "pathya",
+      "address": "mumbai",
+      "contact": 5555,
+      "id": "2"
+    },
+    {
+      "name": "Tanvish ",
+      "address": "Nashik",
+      "contact": "9371410502",
+      "id": "5edc"
+    },
+    {
+      "id": "0ce9",
+      "name": "sanket",
+      "address": "bhoom",
+      "contact": "976794"
+    }
+  ]
+}
