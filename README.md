@@ -5,6 +5,7 @@ It allows users to perform CRUD (Create, Read, Update, Delete) operations on res
 The application communicates with an API using json-server to store and manage the restaurant data.
 
 Features :
+
 • Add Restaurant: Users can add new restaurant details, including name, location, and cuisine type.
 
 • Update Restaurant: Edit existing restaurant information easily.
@@ -17,6 +18,7 @@ Features :
 
 
 Technologies Used :
+
 • Frontend: Vue.js for building the user interface.
 
 • Backend: JSON Server to mock a REST API for managing data.
@@ -25,6 +27,7 @@ Technologies Used :
 
 
 Setup Instructions :
+
 1. Clone the repository:
     git clone <repository-url>
     cd <repository-folder>
